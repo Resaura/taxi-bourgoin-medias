@@ -1,5 +1,39 @@
 {
   "depot": "Resaura/taxi-bourgoin-medias",
   "url": "https://resaura.github.io/taxi-bourgoin-medias",
-  "medias": []
+  "medias": [
+    {
+      "chemin": "m/16f4d21816f65b80/couverture.jpg",
+      "url": "https://resaura.github.io/taxi-bourgoin-medias/m/16f4d21816f65b80/couverture.jpg",
+      "sha256": "16f4d21816f65b8056575cf72e8e32be4ecfee1fdcd72b338ffcb34f3c29fa53",
+      "octets": 122603,
+      "type": "image/jpeg",
+      "origines": [
+        "essai:essai-reel"
+      ],
+      "ajoute_le": "2026-11-08T08:49:01.204Z"
+    },
+    {
+      "chemin": "m/866d4b5a84cbe619/image.jpg",
+      "url": "https://resaura.github.io/taxi-bourgoin-medias/m/866d4b5a84cbe619/image.jpg",
+      "sha256": "866d4b5a84cbe619c0b599fd21f55eb1ebb40798e94d97eefa96fa2af2d09c62",
+      "octets": 289103,
+      "type": "image/jpeg",
+      "origines": [
+        "essai:essai-image"
+      ],
+      "ajoute_le": "2026-11-08T08:49:01.204Z"
+    },
+    {
+      "chemin": "m/f39f18fe8a5c9ffc/essai-en-ligne-vol-du-matin.mp4",
+      "url": "https://resaura.github.io/taxi-bourgoin-medias/m/f39f18fe8a5c9ffc/essai-en-ligne-vol-du-matin.mp4",
+      "sha256": "f39f18fe8a5c9ffc3e2982cb59410243ded4bfbd7832371c5c6e476d954fbe73",
+      "octets": 3612204,
+      "type": "video/mp4",
+      "origines": [
+        "essai:essai-reel"
+      ],
+      "ajoute_le": "2026-11-08T08:49:01.204Z"
+    }
+  ]
 }
