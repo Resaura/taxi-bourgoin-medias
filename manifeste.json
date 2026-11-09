@@ -34,6 +34,17 @@
         "essai:essai-reel"
       ],
       "ajoute_le": "2026-11-08T08:49:01.204Z"
+    },
+    {
+      "chemin": "m/702b578701a7cd8e/image.jpg",
+      "url": "https://resaura.github.io/taxi-bourgoin-medias/m/702b578701a7cd8e/image.jpg",
+      "sha256": "702b578701a7cd8e6b4ad5b0f011011deb2e70aa319c72e03bff6f09aca34f0d",
+      "octets": 116441,
+      "type": "image/jpeg",
+      "origines": [
+        "2026-11-13-1730-instagram-a-six-avec-les-valises"
+      ],
+      "ajoute_le": "2026-11-09T11:27:19.110Z"
     }
   ]
 }
