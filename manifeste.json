@@ -45,6 +45,17 @@
         "2026-11-13-1730-instagram-a-six-avec-les-valises"
       ],
       "ajoute_le": "2026-11-09T11:27:19.110Z"
+    },
+    {
+      "chemin": "m/0a7afe11647301df/avion-a-6h10.mp4",
+      "url": "https://resaura.github.io/taxi-bourgoin-medias/m/0a7afe11647301df/avion-a-6h10.mp4",
+      "sha256": "0a7afe11647301dfe4e45c36a5d9de5bb0b2f8486d5bc58eae2332989eab9539",
+      "octets": 9815953,
+      "type": "video/mp4",
+      "origines": [
+        "2026-11-10-1830-instagram-avion-a-6h10"
+      ],
+      "ajoute_le": "2026-11-10T13:56:13.896Z"
     }
   ]
 }
