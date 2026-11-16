@@ -57,6 +57,72 @@
         "2026-11-13-1730-instagram-avion-a-6h10"
       ],
       "ajoute_le": "2026-11-10T13:56:13.896Z"
+    },
+    {
+      "chemin": "m/1b23dec25828d887/carrousel-01.jpg",
+      "url": "https://resaura.github.io/taxi-bourgoin-medias/m/1b23dec25828d887/carrousel-01.jpg",
+      "sha256": "1b23dec25828d887e3852889b23da43efcad7679e8f959d617e1949d91acaf6e",
+      "octets": 243615,
+      "type": "image/jpeg",
+      "origines": [
+        "2026-11-22-1800-instagram-vol-demain-matin"
+      ],
+      "ajoute_le": "2026-11-16T09:33:13.193Z"
+    },
+    {
+      "chemin": "m/abb1adcc6b62d32e/soiree-jeudi.mp4",
+      "url": "https://resaura.github.io/taxi-bourgoin-medias/m/abb1adcc6b62d32e/soiree-jeudi.mp4",
+      "sha256": "abb1adcc6b62d32eeb3317d206913e590c56f7121865eb421870dfde532ba63a",
+      "octets": 9614068,
+      "type": "video/mp4",
+      "origines": [
+        "2026-11-17-1830-instagram-soiree-jeudi-comment-rentrer"
+      ],
+      "ajoute_le": "2026-11-16T09:33:13.193Z"
+    },
+    {
+      "chemin": "m/bbff1f727615b20f/carrousel-02.jpg",
+      "url": "https://resaura.github.io/taxi-bourgoin-medias/m/bbff1f727615b20f/carrousel-02.jpg",
+      "sha256": "bbff1f727615b20fead3aa458f8f995226d1a846a75a6b436989ba8f4dfa0a46",
+      "octets": 179803,
+      "type": "image/jpeg",
+      "origines": [
+        "2026-11-22-1800-instagram-vol-demain-matin"
+      ],
+      "ajoute_le": "2026-11-16T09:33:13.193Z"
+    },
+    {
+      "chemin": "m/d6418c3fde40b20d/carrousel-03.jpg",
+      "url": "https://resaura.github.io/taxi-bourgoin-medias/m/d6418c3fde40b20d/carrousel-03.jpg",
+      "sha256": "d6418c3fde40b20d25c4686b99e2a2fafa2353498bd4151b06b25080d563973c",
+      "octets": 185916,
+      "type": "image/jpeg",
+      "origines": [
+        "2026-11-22-1800-instagram-vol-demain-matin"
+      ],
+      "ajoute_le": "2026-11-16T09:33:13.193Z"
+    },
+    {
+      "chemin": "m/e8f6e6c58128eb77/carrousel-05.jpg",
+      "url": "https://resaura.github.io/taxi-bourgoin-medias/m/e8f6e6c58128eb77/carrousel-05.jpg",
+      "sha256": "e8f6e6c58128eb772e005542c1dfa43ecd9bf875472b9aa9f0901f8f8e52d7d3",
+      "octets": 148826,
+      "type": "image/jpeg",
+      "origines": [
+        "2026-11-22-1800-instagram-vol-demain-matin"
+      ],
+      "ajoute_le": "2026-11-16T09:33:13.193Z"
+    },
+    {
+      "chemin": "m/f2fd28fe5828b6d6/carrousel-04.jpg",
+      "url": "https://resaura.github.io/taxi-bourgoin-medias/m/f2fd28fe5828b6d6/carrousel-04.jpg",
+      "sha256": "f2fd28fe5828b6d6df374addf35af3108f481271c849975673fb5d26003d0ee8",
+      "octets": 158249,
+      "type": "image/jpeg",
+      "origines": [
+        "2026-11-22-1800-instagram-vol-demain-matin"
+      ],
+      "ajoute_le": "2026-11-16T09:33:13.193Z"
     }
   ]
 }
