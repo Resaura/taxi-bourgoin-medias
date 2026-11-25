@@ -140,6 +140,17 @@
         "2026-11-27-1730-instagram-deux-voitures-ou-un-van"
       ],
       "ajoute_le": "2026-11-23T17:58:43.186Z"
+    },
+    {
+      "chemin": "m/3460b89f8c6e5774/toute-la-famille.mp4",
+      "url": "https://resaura.github.io/taxi-bourgoin-medias/m/3460b89f8c6e5774/toute-la-famille.mp4",
+      "sha256": "3460b89f8c6e5774a316eafb7646e735b01af3008dbcb4d5f22e96a4e0218772",
+      "octets": 8895516,
+      "type": "video/mp4",
+      "origines": [
+        "2026-11-27-1730-instagram-deux-voitures-ou-un-van"
+      ],
+      "ajoute_le": "2026-11-25T19:10:46.515Z"
     }
   ]
 }
